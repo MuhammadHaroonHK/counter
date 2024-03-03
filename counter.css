@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    text-align: center;
+    background-color: rgb(78, 160, 78);
+    width: 400px;
+    height: 300px;
+    color: white;
+    display: block;
+    margin: auto;
+}
+
+#countel{
+    margin: 20px;
+}
+
+button{
+    background-color: #107920;
+    font-size: 14px;
+    margin: 5px;
+    padding: 3px;
+    color: white;
+    border-radius: 5px;
+}
+
+#save-btn{
+    margin: 20px;
+    font-size: 18px;
+}
